@@ -1,2 +1,2 @@
-# Exchange-Rates-
+# Exchange-Rates
 Storytelling Data Visualization  
